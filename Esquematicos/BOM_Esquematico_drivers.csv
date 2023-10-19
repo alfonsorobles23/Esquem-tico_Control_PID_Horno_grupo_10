@@ -1,0 +1,10 @@
+"Part";"Value";"Device";"Package";"Description";"COPYRIGHT";"MANUFACTURER_PART_NUMBER";"MFR_NAME";"PARTNO";"POPULARITY";"SPICEPREFIX";
+"C1";"1000nF 0603";"C-USC0603";"C0603";"CAPACITOR, American symbol";"";"";"";"CC0603KRX7R7BB104";"37";"C";
+"C2";"10nF 0603";"C-USC0603";"C0603";"CAPACITOR, American symbol";"";"";"";"GRM033R71A103KA01D";"37";"C";
+"IC1";"MAX31855KASA+T";"MAX31855KASA+T";"SOIC127P600X175-8N";"";"";"";"";"MAX31855KASA+T";"";"";
+"J1";"PPPC031LFBN-RCCONN_PPPC031LFBN-RC_SUL";"PPPC031LFBN-RCCONN_PPPC031LFBN-RC_SUL";"CONN_PPPC031LFBN-RC_SUL";"";"Copyright (C) 2023 Ultra Librarian. All rights reserved.";"PPPC031LFBN-RC";"Sullins";"PPPC031LFBN-RC";"";"";
+"M1";"";"NUCLEO-L452RE";"NUCLEO-64";"No existe un outline (Layer Dimension) para esta librería. En su lugar se utilizó una referencia en tDocu.";"";"";"";"";"";"";
+"PPTC041LFBN-RC";"PPTC041LFBN-RCCONN_PPTC041LFBN-RC_SUL";"PPTC041LFBN-RCCONN_PPTC041LFBN-RC_SUL";"CONN_PPTC041LFBN-RC_SUL";"";"Copyright (C) 2023 Ultra Librarian. All rights reserved.";"PPTC041LFBN-RC";"Sullins";"PPTC041LFBN-RC";"";"";
+"X1";"1729128";"MKDSN1,5/2-5,08";"MKDSN1,5/2-5,08";"MKDSN 1,5/ 2-5,08 Printklemme";"";"";"";"1729128";"14";"";
+"X2";"1729128";"MKDSN1,5/2-5,08";"MKDSN1,5/2-5,08";"MKDSN 1,5/ 2-5,08 Printklemme";"";"";"";"1729128";"14";"";
+"X3";"1729128";"MKDSN1,5/2-5,08";"MKDSN1,5/2-5,08";"MKDSN 1,5/ 2-5,08 Printklemme";"";"";"";"1729128";"14";"";
