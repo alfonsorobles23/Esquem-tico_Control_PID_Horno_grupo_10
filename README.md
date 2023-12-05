@@ -1,4 +1,4 @@
-Se agregaron los códigos utilizados en el software STM32CubeIDE (05-12-2023).
+Se agregaron los códigos utilizados (completo y ordenados en carpeta zip) en el software STM32CubeIDE (05-12-2023) más importantes se agregaron en carpeta git.
 
 Se realizaron los cambios solicitados (03-11-2023).
 
